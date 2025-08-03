@@ -66,17 +66,12 @@
 <!-- =============================================================== -->
 <div align="left">
 
-<a href="[https://www.instagram.com/your_instagram_username](https://www.instagram.com/amiit.1/)" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/amit.gupta.382037) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amiit.1/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/amit-gupta-846955263) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptaamit1667@gmail.com) 
 
-<a href="mailto:guptaamit1667@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
 
-<a href="www.linkedin.com/in/amit-gupta-846955263" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
 </div>
 
 
