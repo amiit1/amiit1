@@ -69,7 +69,6 @@
   <li>🔭 I’m currently working on projects in AI & IoT</li>
   <li>🌱 I’m learning advanced ML and edge computing</li>
   <li>💬 Ask me about anything tech-related!</li>
-  <li>⚡ Fun fact: I love turning coffee ☕ into code 🧠</li>
 </ul>
 </details>
 
