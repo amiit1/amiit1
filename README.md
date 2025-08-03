@@ -76,12 +76,6 @@
 
 
 
-<!-- =============================================================== -->
-<!--                   A N I M A T E D   S N A K E                  -->
-<!-- =============================================================== -->
-<br/>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
----
 
 
