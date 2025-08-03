@@ -4,6 +4,19 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate developer and lifelong learner</h3>
 
+<!-- =============================================================== -->
+<!--                      A B O U T   M E                            -->
+<!-- =============================================================== -->
+<details>
+<summary>✨ <strong>About Me</strong></summary>
+<br>
+<ul>
+  <li>🔭 I’m currently working on projects in AI & IoT</li>
+  <li>🌱 I’m learning advanced ML and edge computing</li>
+  <li>💬 Ask me about anything tech-related!</li>
+</ul>
+</details>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+%7C+IoT+%7C+CV+%7C+ML+Engineer;Always+learning+new+things" alt="Typing SVG" />
 </p>
@@ -59,18 +72,7 @@
 </div>
 
 
-<!-- =============================================================== -->
-<!--                      A B O U T   M E                            -->
-<!-- =============================================================== -->
-<details>
-<summary>✨ <strong>About Me</strong></summary>
-<br>
-<ul>
-  <li>🔭 I’m currently working on projects in AI & IoT</li>
-  <li>🌱 I’m learning advanced ML and edge computing</li>
-  <li>💬 Ask me about anything tech-related!</li>
-</ul>
-</details>
+
 
 
 
